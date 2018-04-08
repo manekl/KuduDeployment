@@ -1,0 +1,10 @@
+/Users/maneklakhanpal/Documents/Learn/AzureAppServiceConfiguration/KuduDeployment/bin/Debug/netcoreapp2.0/KuduDeployment.deps.json
+/Users/maneklakhanpal/Documents/Learn/AzureAppServiceConfiguration/KuduDeployment/bin/Debug/netcoreapp2.0/KuduDeployment.runtimeconfig.json
+/Users/maneklakhanpal/Documents/Learn/AzureAppServiceConfiguration/KuduDeployment/bin/Debug/netcoreapp2.0/KuduDeployment.runtimeconfig.dev.json
+/Users/maneklakhanpal/Documents/Learn/AzureAppServiceConfiguration/KuduDeployment/bin/Debug/netcoreapp2.0/KuduDeployment.dll
+/Users/maneklakhanpal/Documents/Learn/AzureAppServiceConfiguration/KuduDeployment/bin/Debug/netcoreapp2.0/KuduDeployment.pdb
+/Users/maneklakhanpal/Documents/Learn/AzureAppServiceConfiguration/KuduDeployment/obj/Debug/netcoreapp2.0/KuduDeployment.csproj.CoreCompileInputs.cache
+/Users/maneklakhanpal/Documents/Learn/AzureAppServiceConfiguration/KuduDeployment/obj/Debug/netcoreapp2.0/KuduDeployment.AssemblyInfoInputs.cache
+/Users/maneklakhanpal/Documents/Learn/AzureAppServiceConfiguration/KuduDeployment/obj/Debug/netcoreapp2.0/KuduDeployment.AssemblyInfo.cs
+/Users/maneklakhanpal/Documents/Learn/AzureAppServiceConfiguration/KuduDeployment/obj/Debug/netcoreapp2.0/KuduDeployment.dll
+/Users/maneklakhanpal/Documents/Learn/AzureAppServiceConfiguration/KuduDeployment/obj/Debug/netcoreapp2.0/KuduDeployment.pdb
